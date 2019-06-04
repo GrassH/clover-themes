@@ -97,16 +97,22 @@ a:hover {
           <p class="textTitleSubLatestHeading"><!--INSERT_BUILD_SHORT--></p>
           <p class="textSectionLatestBody">
 
-- Add initial support for vector themes.<br>
+- Process bootlog as if it were a binary file to handle NULL in clover bootlog.<br>
+- Update partutil with 64bit version.<br>
 
           </p>
         <!--</div>-->
 
           <p class="textTitleHeadingSml">Changelog history</p>
  
+          <p class="textTitleSubHeading">v0.77.1</p>
+          <p class="textSectionBody">- Add initial support for vector themes.</p>
+
+        <div class="band1">
           <p class="textTitleSubHeading">v0.77.0</p>
           <p class="textSectionBody">- Adapt reading pci root device path to detect NVMe.<br>
-- Allow UEFI boot without emuvariable to signify working nvram.<br>
+- Allow UEFI boot without emuvariable to signify working nvram.</p>
+        </div>
 
         <div class="band2">
           <p class="textTitleSubHeading">v0.76.9</p>

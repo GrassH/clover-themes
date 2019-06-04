@@ -13,7 +13,7 @@ When the app is launched, it starts public/bash/script.sh and then creates a web
 ### Build
 
 Just clone the repository and build in Xcode.
-For ref, I’m currently using Xcode v6.1
+For ref, I’m currently using Xcode v10.2
 
 ### License
 
