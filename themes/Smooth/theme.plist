@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>A light Clover theme with pressed button selection effect. Version: 2.0</string>
+	<string>A light Clover theme with pressed button selection effect. Version: 2.1</string>
 	<key>Theme</key>
 	<dict>
 		<key>Background</key>
@@ -60,19 +60,6 @@
 			<key>Type</key>
 			<string>Load</string>
 		</dict>
-		<key>Layout</key>
-		<dict>
-			<key>ButtonOffset</key>
-			<integer>32</integer>
-			<key>SelectionBigWidth</key>
-			<integer>180</integer>
-			<key>TileXSpace</key>
-			<integer>0</integer>
-			<key>TileYSpace</key>
-			<integer>32</integer>
-			<key>Vertical</key>
-			<false/>
-		</dict>
 		<key>Origination</key>
 		<dict>
 			<key>DesignHeight</key>
@@ -87,7 +74,7 @@
 			<key>ChangeNonSelectedGrey</key>
 			<false/>
 			<key>Color</key>
-			<string>0xFFFFFF60</string>
+			<string>0x00000010</string>
 			<key>OnTop</key>
 			<true/>
 			<key>Small</key>
@@ -95,7 +82,7 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>2.0</string>
+	<string>2.1</string>
 	<key>Year</key>
 	<string>2019</string>
 </dict>
